@@ -1,0 +1,15 @@
+{
+  "dependencies": {},
+  "name": "phoenix-config",
+  "version": "1.0.0",
+  "description": "my configuration of phoenix",
+  "main": "phoenix.ts",
+  "devDependencies": {
+    "@types/phoenix": "github:mafredri/phoenix-typings#main"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "drfunjohn",
+  "license": "ISC"
+}
